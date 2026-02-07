@@ -35,3 +35,7 @@ Prototipo base de un juego **hack & slash** en tercera persona inspirado en Devi
 
 Este repositorio contiene una base funcional orientada a prototipo y extensión.
 No incluye assets artísticos, animaciones ni sonidos finales.
+
+## Guía paso a paso
+
+Consulta la guía práctica de implementación en `docs/GUIA_IMPLEMENTACION.md`.
